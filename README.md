@@ -13,9 +13,9 @@ Communication Logs, Participation Logs, Logical Architecture Diagrams, Design Pa
 - Has a color vision deficiency mode for people with color deficiency
 
 ## Authors
-Apurva Acharya
-Stephen Mustafa
-Kanika Mathur
-Abhishek Gujjar
-Keirsten Martin
+- Apurva Acharya
+- Stephen Mustafa
+- Kanika Mathur
+- Abhishek Gujjar
+- Keirsten Martin
 
